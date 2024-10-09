@@ -1,0 +1,9 @@
+.chart--wrapper{
+    padding: 10px;
+    margin:10px;
+}
+
+.chart--container{
+    display: flex;
+}
+
